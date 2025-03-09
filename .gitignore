@@ -1,2 +1,4 @@
 
 target/
+(same as "user" config, ignored)
+database/tasks.db
